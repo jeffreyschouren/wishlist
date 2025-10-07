@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_kmf_module_key_policy">
+    <sys_kmf_module_key_policy action="INSERT_OR_UPDATE">
+        <crypto_module display_value="global.com_snc_core_automation_connection_credential_glideencrypter">550cd0b07722201099808d1168106121</crypto_module>
+        <key_type display_value="Symmetric Key Encryption Key">ca005cf7c7103300af4d43c6f0976328</key_type>
+        <last_enforced>2025-10-07 10:51:59</last_enforced>
+        <result>reject</result>
+        <sys_class_name>sys_kmf_module_key_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-07 10:51:59</sys_created_on>
+        <sys_id>904b5f7b831032107f44e5c912da1eec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="WishList" source="x_snc_wishlist">5a291fb7831032107f44e5c912da1edb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">5a291fb7831032107f44e5c912da1edb</sys_scope>
+        <sys_update_name>sys_kmf_module_key_policy_904b5f7b831032107f44e5c912da1eec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-07 10:51:59</sys_updated_on>
+    </sys_kmf_module_key_policy>
+</record_update>
